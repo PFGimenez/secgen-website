@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Joscha Cüppers’ stay at Inria"
+title: "Joscha Cüppers’ stay at Inria on data mining"
 description: ""
 comments: true
 keywords: "stay"
